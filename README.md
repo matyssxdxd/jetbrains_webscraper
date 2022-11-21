@@ -1,0 +1,2 @@
+# JetBrains Webscraper
+A project created during the JetBrains Python Core course. It's a web scraper that takes the number of pages and article type as user input and then searches the number of pages in the hard-coded link for the article type the user asked for. Afterward, it saves everything in separate folders.
